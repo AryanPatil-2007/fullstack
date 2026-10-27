@@ -1,0 +1,36 @@
+h1{
+    color: brown;
+    font-size: 25px;
+    font-style: italic;
+}
+
+h2{
+    color:blue; 
+}
+
+.institute{       
+    color: blue;
+}
+
+.Name {
+    font-style: italic;
+    color: brown;
+    font-size: 50px;
+}
+
+div>h1{
+    color: aqua;
+    font-size: 60px;
+
+}
+
+div>h3,p{          
+    color:red;
+    font-size: 100px;
+}
+
+h3+p{
+    color: bisque;
+    font-size: 200px;
+    font-style: italic;
+}
