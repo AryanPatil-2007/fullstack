@@ -1,0 +1,72 @@
+body,
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #0d1120;
+    color: white;
+    padding: 30px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.card {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #1e2539;
+    border-radius: 16px;
+    padding: 32px 18px 25px 18px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.avatar {
+    width: 155px;
+    height: 155px;
+    border-radius: 10px;
+}
+
+.caption {
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: #9aa0ae;
+    margin-top: 5px;
+}
+
+.name {
+    font-size: 36px;
+    margin-top: 10px;
+}
+
+.role {
+    font-family: Arial, sans-serif;
+    font-size: 26px;
+    color: #38b6f0;
+    margin-top: 5px;
+}
+
+.bio {
+    font-size: 20px;
+    color: #a0a6b8;
+    margin-top: 15px;
+}
+
+.skills {
+    background-color: #f59e0b;
+    color: #1a1a1a;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 30px;
+    margin-top: 20px;
+}

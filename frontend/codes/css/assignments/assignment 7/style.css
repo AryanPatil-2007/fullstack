@@ -1,0 +1,70 @@
+body{
+    font-family: quicksand;
+}
+
+h1{
+    text-align: center;
+    color: #0b1a82;
+    font-weight: 1000;
+}
+
+header > p{
+    text-align: center;
+    color: #334155;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.cards{
+    background-color: #6ED0F6;
+    height: 250px;
+    width: 550px;
+    border-radius: 12px;
+    padding: 24px 24px 24px 0px;
+    margin-bottom: 10px;
+    
+}
+
+.cards > h3 {
+    color: #037324;
+    font-size: 22px;
+    line-height: 28px;  
+
+}
+
+.cards > p {
+    color: #58798E;
+}
+
+.cards > ul{
+    color: #8B1318;
+}
+
+.green_text{
+    color: #037324;
+    font-weight: 1000;
+}
+
+#popular{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.tip::before{
+    content: "Tip : ";
+    color: #037324;
+    font-weight: 1000;
+    
+}
+
+#featured{
+    text-align: center;
+    color: #8B1318;
+    font-weight: 1000;   
+}
+
+#explore{
+    font-weight: 400;
+    font-size: 12px;
+    text-decoration: none;
+}

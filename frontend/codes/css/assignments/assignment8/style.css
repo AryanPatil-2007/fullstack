@@ -1,0 +1,55 @@
+.body1{
+    background-color: black;
+    color: white;
+}
+
+.anchor1{
+    color: white;
+    text-decoration: none;
+    
+
+}
+
+
+.body2{
+    background-color: black;
+    color: white;
+    font-family: Poppins;;
+}
+
+h1{
+    text-align: center;
+    color: #FFD700;
+}
+
+#card{
+    background-color: #2B2C2F;
+
+}
+
+h2{
+    color: #E69500;
+    margin-bottom: 0px;
+}
+
+#moviecard{
+    width: 500px;
+    height: 350px;
+    background-color: #2B2C2F;
+    margin-top: 0px;
+    
+}
+
+#div_footer{
+    color: #32CD32;
+    text-align: center;
+    background-color: black;
+    font-family: Liberation;
+}
+
+#div_header{
+    font-family: Liberation;
+    font-weight: 400;
+    background-color: #181819;
+    color: #E5E7EB;
+}
